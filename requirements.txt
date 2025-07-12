@@ -1,3 +1,4 @@
+lightgbm
 matplotlib
 numpy
 pandas
