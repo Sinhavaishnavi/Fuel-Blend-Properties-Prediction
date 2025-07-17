@@ -1,9 +1,13 @@
+catboost
 lightgbm
 matplotlib
 numpy
+optuna
 pandas
 pathlib
 seaborn
 scipy
 scikit-learn
 shap
+tensorflow
+xgboost
