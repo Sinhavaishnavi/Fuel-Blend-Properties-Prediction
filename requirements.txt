@@ -3,11 +3,11 @@ lightgbm
 matplotlib
 numpy
 optuna
+optuna-dashboard
 pandas
 pathlib
 seaborn
 scipy
 scikit-learn
-shap
 tensorflow
 xgboost
